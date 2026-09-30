@@ -1,0 +1,4 @@
+﻿  Project 2 - ATM System.cpp
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 2 - ATM System\Project 2 - ATM System\Project 2 - ATM System.cpp(35,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 2 - ATM System\Project 2 - ATM System\Project 2 - ATM System.cpp(226,1): warning C4715: 'ConvertOptionToNumber': not all control paths return a value
+  Project 2 - ATM System.vcxproj -> C:\Users\LOQ\Desktop\Programming\Programming Advices\8\Project 2 - ATM System\x64\Debug\Project 2 - ATM System.exe
